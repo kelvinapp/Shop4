@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632867976365",
+    "firebase_url": "https://shop3-application.firebaseio.com",
+    "project_id": "shop3-application",
+    "storage_bucket": "shop3-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632867976365:android:5d273e74063cd138",
+        "android_client_info": {
+          "package_name": "com.kelvin.shop3application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632867976365-c4e018nl1p44cdb4cn9envo7ibr5923n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin.shop3application",
+            "certificate_hash": "a1d5ff398b207012d95e6e84d2905d80d5385ddf"
+          }
+        },
+        {
+          "client_id": "632867976365-2f95fdk79vdguinduv09ab4jd7s5m12q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Q9IIlKmJbitLCCn_nnBX1OeVVYPDK9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632867976365-2f95fdk79vdguinduv09ab4jd7s5m12q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
